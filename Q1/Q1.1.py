@@ -76,7 +76,7 @@ def on_generate():
     )
 
 
-# Create a small graphical interface for GUI so the program can be used without # entering commands or editing the source code.
+# Create a small graphical interface for GUI so the program can be used without entering commands or editing the source code.
 root = tk.Tk()
 root.title("GitHub Repository Lister")
 
